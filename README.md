@@ -83,3 +83,6 @@ Future versions of this project can include:
 - Advanced visualizations
 - Interactive BI dashboard# health-care-patient-analysis
 healthcare patient and hospital operations analysis using excel and data visualization
+  ## 📊 Dashboard Preview
+
+![Healthcare Patient Analysis Dashboard](Healthcare_Dashboard.png)
