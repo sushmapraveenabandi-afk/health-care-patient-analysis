@@ -1,88 +1,129 @@
-# Healthcare Patient Analysis
+ Healthcare Patient Analysis
 
-## 📌 Project Overview
+Project Overview
 
-This project analyzes synthetic healthcare data to understand patient volume, admission patterns, severity of illness, length of stay, and department-level operations.
+This project analyzes 5,000 hospital patient records using Microsoft Excel and Python.
 
-The goal is to transform raw hospital data into meaningful insights that can support better healthcare planning and operational decision-making.
+The project focuses on understanding patient demographics, length of stay, admission patterns, severity of illness, hospital characteristics, admission deposits, visitors, and data quality.
 
-## 🎯 Project Objectives
+The analysis was performed using Excel for data cleaning, exploratory analysis, PivotTables, PivotCharts, and dashboard creation, followed by Python analysis using Pandas and Matplotlib in Google Colab.
 
-- Analyze patient distribution across hospital departments
-- Understand patient severity across different departments
-- Identify patterns in patient admission types
-- Analyze length of hospital stay
-- Understand patient distribution across age groups
-- Compare average admission deposits across departments
-- Create an interactive-style dashboard for easy interpretation of healthcare data
+Project Objectives
 
-## 🛠️ Tools Used
+- Analyze patient demographics and age groups
+- Examine length of hospital stay
+- Analyze admission types and severity of illness
+- Explore hospital and ward characteristics
+- Identify missing values and duplicate records
+- Analyze admission deposits and visitors
+- Create meaningful charts and visualizations
+- Build an interactive healthcare analysis dashboard
+- Apply Python-based data analysis to the same healthcare dataset
+
+Dataset
+
+- Records: 5,000
+- Columns: 18
+- Domain: Healthcare / Hospital Patient Data
+
+Tools & Technologies
+
+Excel
 
 - Microsoft Excel
+- Data cleaning
+- Data quality checking
+- Sorting and filtering
 - PivotTables
-- Pivot Charts
-- Data Cleaning
-- Data Analysis
-- Data Visualization
+- PivotCharts
+- Data analysis
+- Data visualization
+- Dashboard creation
 
-## 📊 Key Analyses
+Python
 
-The project includes analysis of:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Google Colab
 
-- Patient Cases by Department and Severity of Illness
-- Patient Cases by Age Group
-- Patient Cases by Length of Stay and Severity of Illness
-- Patient Cases by Length of Stay Range
-- Patient Cases by Type of Admission
-- Patient Cases by Admission Type and Severity of Illness
-- Average Admission Deposit by Department
-- Patient Cases by Department
+Version Control
 
-## 📈 Dashboard
+- GitHub
 
-The Excel dashboard brings the major analyses together in one place to make healthcare patterns easier to understand.
+Excel Analysis
 
-## 💡 Key Insights
+The dataset was first analyzed and cleaned using Microsoft Excel.
 
-The analysis helps identify:
+The Excel work included:
 
-- Departments handling higher numbers of patient cases
-- Differences in severity of illness across departments
-- Admission types associated with higher patient volumes
-- Common length-of-stay ranges
-- Patient distribution across different age groups
-- Differences in average admission deposits between departments
+- Data cleaning and organization
+- Checking for missing values
+- Checking for duplicate records
+- Sorting and filtering
+- Creating PivotTables
+- Creating PivotCharts
+- Patient demographic analysis
+- Admission and severity analysis
+- Hospital and ward analysis
+- Length-of-stay analysis
+- Admission deposit analysis
+- Visitor analysis
+- Healthcare dashboard creation
 
-## 📁 Project Files
+Excel Dashboard
 
-- `healthcare_data.xlsx` — Dataset, data analysis, PivotTables and dashboard
-- Dashboard image — Visual representation of the final healthcare analysis dashboard
+The final Excel dashboard summarizes important healthcare patient patterns through charts and visualizations.
 
-## 👩‍💻 Skills Demonstrated
+Dashboard Preview
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Microsoft Excel
-- PivotTables
-- Data Visualization
-- Dashboard Development
-- Healthcare Data Analysis
-- Analytical Thinking
+"Healthcare Patient Analysis Dashboard" (healthcare_dashboard.png)
 
-## 📌 Dataset
+Python Analysis
 
-The project uses synthetic healthcare data for educational and portfolio purposes. It does not contain real patient information.
+The cleaned healthcare dataset was also analyzed using Python in Google Colab.
 
-## 🚀 Future Improvements
+The Python analysis included:
 
-Future versions of this project can include:
+- Loading the healthcare dataset
+- Inspecting the dataset structure
+- Checking data types
+- Checking missing values
+- Checking duplicate records
+- Analyzing patient age groups
+- Analyzing length of stay
+- Analyzing admission types
+- Analyzing severity of illness
+- Analyzing departments
+- Analyzing hospital types
+- Analyzing ward types
+- Analyzing admission deposits
+- Analyzing visitors
+- Creating data visualizations using Matplotlib
 
-- Python-based exploratory data analysis
-- Pandas data cleaning and analysis
-- Additional statistical analysis
-- Advanced visualizations
-- Interactive BI dashboard# health-care-patient-analysis
-healthcare patient and hospital operations analysis using excel and data visualization
+Key Findings
+
+- The dataset contains 5,000 patient records.
+- The dataset contains 18 columns.
+- No duplicate rows were identified.
+- Missing values were identified in Bed Grade and City Code Patient.
+- The 41–50 age group contains the largest number of patients.
+- Moderate severity is the largest severity category in the analysis.
+- Admission patterns and severity were examined across different hospital and patient characteristics.
+
+Project Files
+
+- "Pro Excel S6" — Complete Excel working file containing the dataset, cleaning, analysis, PivotTables, charts, and dashboard.
+- "healthcare_dashboard.png" — Final Excel dashboard preview.
+- "healthcare_data_analysis.ipynb" — Python analysis notebook created using Google Colab.
+- "README.md" — Project documentation.
+
+Conclusion
+
+This project demonstrates a complete healthcare data analysis workflow, from data cleaning and quality checking to exploratory analysis, visualization, dashboard creation, and Python-based analysis.
+
+The project combines Excel and Python skills to analyze healthcare data and communicate meaningful patterns through visualizations.
   ## 📊 Dashboard Preview
 
 ![Healthcare Patient Analysis Dashboard](healthcare_dashboard.png)
