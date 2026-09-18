@@ -1,4 +1,4 @@
- Healthcare Patient Analysis
+Healthcare Patient Analysis
 
 Project Overview
 
@@ -76,10 +76,9 @@ Excel Dashboard
 
 The final Excel dashboard summarizes important healthcare patient patterns through charts and visualizations.
 
-Dashboard Preview
+ 📊 Dashboard Preview
 
-"Healthcare Patient Analysis Dashboard" (healthcare_dashboard.png)
-
+[Healthcare Patient Analysis Dashboard](healthcare_dashboard.png)
 Python Analysis
 
 The cleaned healthcare dataset was also analyzed using Python in Google Colab.
@@ -124,6 +123,3 @@ Conclusion
 This project demonstrates a complete healthcare data analysis workflow, from data cleaning and quality checking to exploratory analysis, visualization, dashboard creation, and Python-based analysis.
 
 The project combines Excel and Python skills to analyze healthcare data and communicate meaningful patterns through visualizations.
-  ## 📊 Dashboard Preview
-
-![Healthcare Patient Analysis Dashboard](healthcare_dashboard.png)
