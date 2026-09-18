@@ -79,6 +79,8 @@ The final Excel dashboard summarizes important healthcare patient patterns throu
  📊 Dashboard Preview
 
 [Healthcare Patient Analysis Dashboard](healthcare_dashboard.png)
+
+
 Python Analysis
 
 The cleaned healthcare dataset was also analyzed using Python in Google Colab.
