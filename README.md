@@ -115,7 +115,7 @@ Key Findings
 
 Project Files
 
-- "Pro Excel S6" — Complete Excel working file containing the dataset, cleaning, analysis, PivotTables, charts, and dashboard.
+- "Pro.xlsx" — Complete Excel working file containing the dataset, cleaning, analysis, PivotTables, charts, and dashboard.
 - "healthcare_dashboard.png" — Final Excel dashboard preview.
 - "healthcare_data_analysis.ipynb" — Python analysis notebook created using Google Colab.
 - "README.md" — Project documentation.
