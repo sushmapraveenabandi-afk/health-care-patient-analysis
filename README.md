@@ -46,7 +46,7 @@ Healthcare-Patient-Analysis/
 ├── python/
 │   └── healthcare_data_analysis.ipynb
 ├── sql/
-│   └── healthcare_patient_analysis.sql
+│   └── healthcare_patient_ananlysis.sql
 ├── README.md
 └── .gitignore
 ```
@@ -56,7 +56,7 @@ Healthcare-Patient-Analysis/
 - 📁 [Cleaned Dataset](healthcare_cleaned.csv)
 - 📗 [Excel Analysis](pro.xlsx)
 - 🐍 [Python Analysis](healthcare_data_analysis.ipynb)
-- 🗄️ [SQL Analysis](healthcare_patient_analysis.sql)
+- 🗄️ [SQL Analysis](healthcare_patient_ananlysis.sql)
  
 ## Data validation
 
