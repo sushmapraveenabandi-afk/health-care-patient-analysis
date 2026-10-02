@@ -50,15 +50,8 @@ Healthcare-Patient-Analysis/
 ├── README.md
 └── .gitignore
 ```
-## Project  files and resources
 
-- 📊 [Dashboard – Tableau Workbook](dashboard/healthcare_analysis_tableau.twbx)
-- 📁 [Data – Cleaned Dataset](data/healthcare_cleaned.csv)
-- 📗 [Excel – Raw Data, Cleaned Data, Pivot Tables & Dashboard](excel/Flow.xlsx)
-- 🐍 [Python – Healthcare Data Analysis](python/healthcare_data_analysis.ipynb)
-- 🗄️ [SQL – Healthcare Patient Analysis](sql/healthcare_patient_analysis.sql)
-- 📄 [README](README.md)
-- ⚙️ [.gitignore](.gitignore)
+ 
 ## Data validation
 
 During SQL validation, the final all-text staging import successfully retained all **5,000 rows**. Earlier typed imports returned **4,848 rows**, so the validated 5,000-row table was retained for the analysis.
