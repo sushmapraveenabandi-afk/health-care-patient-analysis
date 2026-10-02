@@ -37,17 +37,18 @@ The final dashboard includes:
 
 ```text
 Healthcare-Patient-Analysis/
-├── README.md
+├── dashboard/
+│   └── healthcare_analysis_tableau.twbx
 ├── data/
 │   └── healthcare_cleaned.csv
-├── sql/
-│   └── healthcare_analysis.sql
-├── python/
-│   └── healthcare_analysis.ipynb
 ├── excel/
-│   └── Healthcare_Dashboard.xlsx
-└── dashboard/
-    └── dashboard_screenshot.png
+│   └── Flow.xlsx
+├── python/
+│   └── healthcare_data_analysis.ipynb
+├── sql/
+│   └── healthcare_patient_analysis.sql
+├── README.md
+└── .gitignore
 ```
 
 ## Data validation
