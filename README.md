@@ -50,7 +50,13 @@ Healthcare-Patient-Analysis/
 ├── README.md
 └── .gitignore
 ```
+## 🔗 Project Files & Resources
 
+- 📊 [Tableau Dashboard](healthcare_analysis_tableau.twbx)
+- 📁 [Cleaned Dataset](healthcare_cleaned.csv)
+- 📗 [Excel Analysis](pro.xlsx)
+- 🐍 [Python Analysis](healthcare_data_analysis.ipynb)
+- 🗄️ [SQL Analysis](healthcare_patient_analysis.sql)
  
 ## Data validation
 
